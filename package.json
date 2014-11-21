@@ -1,0 +1,22 @@
+{
+  "name": "codeineNodePeer",
+  "version": "1.0.0",
+  "description": "NodeJs Peer for Codeine",
+  "main": "lib",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/codeine-cd/codeineNodePeer.git"
+  },
+  "author": "Roi Ezra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codeine-cd/codeineNodePeer/issues"
+  },
+  "homepage": "https://github.com/codeine-cd/codeineNodePeer",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "bin": {
+    "codeine": "bin/codeine"
+  }
+}

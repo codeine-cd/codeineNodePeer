@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+'use strict';
+
+process.bin = process.title = 'codeine';
+
+var pkg = require('../package.json');
+
+process.stdout.write('Codeine Peer Version ' + pkg.version + '\n');
+process.exit();
