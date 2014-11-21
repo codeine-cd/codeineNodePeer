@@ -13,6 +13,14 @@
     "url": "https://github.com/codeine-cd/codeineNodePeer/issues"
   },
   "homepage": "https://github.com/codeine-cd/codeineNodePeer",
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-exec": "~0.4.2",
+    "load-grunt-tasks": "~0.6.0"
+  },
   "scripts": {
     "test": "grunt test"
   },

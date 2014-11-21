@@ -1,3 +1,7 @@
+.tern-project
+.settings
+.project
+
 # Logs
 logs
 *.log
